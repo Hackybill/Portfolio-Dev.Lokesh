@@ -1,6 +1,6 @@
 # 🚀 Dev.Lokesh - Cyberpunk 3D Portfolio
 
-![Cyberpunk Portfolio](https://via.placeholder.com/1200x600/00f0ff/0a0a0f?text=Dev.Lokesh+Portfolio)
+![Cyberpunk Portfolio](portfolio-dev-lokesh.vercel.app)
 
 **Cyberpunk 3D Frontend Developer** building immersive portfolios with **Next.js**, **Three.js**, **Spline animations** & **Tailwind CSS**. BCA student from Ajmer, India.
 
